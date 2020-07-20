@@ -1,0 +1,8 @@
+numpy
+ipywidgets
+nbinteract
+pandas
+os
+PIL
+IPython.display
+asyncio
