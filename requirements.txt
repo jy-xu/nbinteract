@@ -2,5 +2,5 @@ numpy
 ipywidgets
 nbinteract
 pandas
-pillow
+Pillow
 asyncio
